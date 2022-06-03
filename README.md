@@ -1,13 +1,5 @@
-- #SOBRE MIM
--
-- 
-- 👋 Hi, I’m @cristianoR085
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cristianoR085/cristianoR085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- # SOBRE MIM
+- 👋Olá meu nome é   @cristianoR085
+- 👍Meu email de conato é cristiano.niciak.ramos@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
